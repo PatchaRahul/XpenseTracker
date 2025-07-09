@@ -1,10 +1,10 @@
-# 💸 Expense Tracker App
+#  Expense Tracker App
 
 A simple, interactive, and user-friendly web application that helps users track their daily expenses by category, date, and amount. It provides an organized way to manage spending habits with live updates and total calculations.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 The **Expense Tracker App** allows users to:
 
@@ -17,18 +17,18 @@ It is built entirely using **HTML**, **CSS**, and **JavaScript** with no externa
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📂 Categorize expenses (e.g., Rent, Transport, Food & Beverage)
-- 🧾 Input amount and date of expense
-- 🖥️ Display all expenses in a table format
-- 🧮 Auto-update total expenses on each entry or deletion
-- ❌ Delete any entry instantly
-- 📱 Responsive design for desktop and mobile
+-  Categorize expenses (e.g., Rent, Transport, Food & Beverage)
+-  Input amount and date of expense
+-  Display all expenses in a table format
+-  Auto-update total expenses on each entry or deletion
+-  Delete any entry instantly
+-  Responsive design for desktop and mobile
 
 ---
 
-## ❓ Why Use This App
+##  Why Use This App
 
 - Track daily/monthly spending habits
 - Stay within budget and monitor savings
@@ -37,7 +37,7 @@ It is built entirely using **HTML**, **CSS**, and **JavaScript** with no externa
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Tech       | Purpose              |
 |------------|----------------------|
@@ -47,7 +47,7 @@ It is built entirely using **HTML**, **CSS**, and **JavaScript** with no externa
 
 ---
 
-## ⚙️ Core Functions
+##  Core Functions
 
 ### 1. `Add Expense`
 - Takes **category**, **amount**, and **date**
